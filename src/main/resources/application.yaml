@@ -1,0 +1,4 @@
+response.message: NO PROFILE
+spring:
+    profiles:
+        active: ${PROFILE}
